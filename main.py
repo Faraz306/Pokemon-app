@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 
-st.title("Yamaan_faraz's cool app.")
+st.title("Yamaan_faraz's Pokemon app.")
 st.write("which pokemon do you like?")
 
 if 'clicked' not in st.session_state:
